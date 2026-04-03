@@ -1,0 +1,7 @@
+{
+  "name": "BuildBear Admin",
+  "short_name": "BuildBear Admin",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}

@@ -1,0 +1,24 @@
+{
+	"system": [
+		{
+			"title": "Statistics",
+			"url": "#",
+			"icon": "chart-no-axes-combined",
+			"isActive": true,
+			"items": [
+				{
+					"title": "Sandboxes",
+					"url": "/statistics/sandboxes"
+				},
+				{
+					"title": "Users",
+					"url": "/statistics/users"
+				},
+				{
+					"title": "Plugins",
+					"url": "/statistics/plugins"
+				}
+			]
+		}
+	]
+}
