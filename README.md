@@ -1,1 +1,1 @@
-# BuildBear Pulse
+# Pulse
